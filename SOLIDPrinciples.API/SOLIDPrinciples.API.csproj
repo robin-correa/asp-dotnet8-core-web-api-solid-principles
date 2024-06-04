@@ -13,4 +13,11 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Classes\LSP\" />
+    <Folder Include="Classes\ISP\" />
+    <Folder Include="Classes\DIP\" />
+    <Folder Include="Classes\SRP\" />
+  </ItemGroup>
+
 </Project>
